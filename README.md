@@ -1,10 +1,10 @@
-# april-fools
+# js-april-fools
 
 A random retro-themed suprise will appear on April 1st before 12pm 😉
 
 ## Demo
 
-https://robsd.github.io/april-fools
+https://robsd.github.io/js-april-fools
 
 ## Credits
 

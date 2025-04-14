@@ -1,6 +1,6 @@
-# js-april-fools
+# js-april-fools 🃏
 
-A random retro-themed suprise will appear on April 1st before 12pm 😉
+A random retro-themed suprise will appear on April 1st before 12pm.
 
 ## Demo
 
